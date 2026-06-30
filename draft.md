@@ -257,3 +257,7 @@ A7L : Neither will NASA. My pretty harsh take on NASA is : their soul was shatte
 INT. OFFICE
 Miss A7L sitting in a noir style office. B&W. High angle.
 A7L : [go back to noir. but say you've got the nerve. and you get a ride. how are you gonna stick the landing ?] The only manned spacecraft to successfully land on and return from the lunar surface was the LEM. Given that it was designed in the 1960s, it's only natural that you would have better options by the 2020s. You don't. NASA is banking on two private companies to make your moon landing happen: SpaceX and Blue Origin. I want you to try and understand something.
+
+EXT. EARTH - AERIAL
+Various Grumman jets flying around. Have fun with it :)
+A7L (V.O.) : When Grumman was chosen to design and assemble the LEM, they had been making reliable military aircraft for _decades_. The F6F Hellcat. F4F Wildcat. TBF Avenger. F9F Panther. Thousands upon thousands of fighter pilots trusted these vehicles with their lives on a daily basis. And they were super reliable! So when it came time to select a contractor for the LEM, NASA could feel safe with choosing them.
