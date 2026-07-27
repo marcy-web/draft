@@ -173,6 +173,7 @@ So. Hell of a rambling conclusion huh ? Sorry if the program didn't make a ton o
 
 # Frame
 INT. BROOM CLOSET - DAY
+a7l_office
 A7L : (Muttering) 'The sky has blessed me today : he's got his going away clothes on. He rushes around, passing in front of the window a few times, and then I don't see anything for a while. Then, the door swings open. The bow puts his arms around her, climbs into the metal machine, and rolls away.' Oh that's nice.
 BOSS (O.S.) : Hey !
 Whip pan to the boss.
@@ -198,6 +199,7 @@ MONTAGE - HUBBLE MONTAGE !!
 A7L (V.O.) : The Hubble Space Telescope has been working in low Earth orbit for 35 years. In addition to giving us thousands, upon _thousands_ of breathtaking images, it's also expanded our understanding of the universe. First confirmation that supermassive black holes exist. First to prove that black holes are at the cores of almost all galaxies. First to detect water vapour plumes off of Europa. First detection of an exoplanet atmosphere. The entire Hubble program has only cost 16 billion. That's enough for... four SLS launches. After which the vehicles are trashed.
 
 EXT. NEPTUNE - SPACE
+Neptune
 Voyager 2 transiting Neptune.
 A7L (V.O.) : The voyager program. Completely transformed our understanding of the outer solar system. About 7 billion when accounting for inflation.
 
@@ -206,6 +208,7 @@ A lonely view from the surface of Mars.
 A7L (V.O.) : The Viking program, transformed our knowledge of Mars for decades, 6 billion. 
 
 EXT. AIRPORT - DAY
+a320
 An A320 sitting on the tarmac.
 A7L (V.O.) : If you want to talk about _normalising_ space travel, an Airbus A320 only costs 110 _million_. 
 
@@ -214,6 +217,7 @@ INT. ROCKET MUSEUM - DAY
 A7L : An SLS launch is an _awful_ deal. But hey, it's your only option.
 
 EXT. THE CITY
+burger_stall
 Miss A7L and another woman standing in front of a liquor store. The woman is rummaging in her purse.
 PURSE LADY : [improv ! she's sorry, her purse is a mess, etc]
 A7L : Oh ! That's totally cool, I can actually record a bit while you look. (*clears throat*) So if our only vehicle can only launch once every few years, at a cost of 4 billion, _why_ exactly are we rushing to get back to the moon? There are so many better things we could be doing. And not in a roundabout way!
@@ -233,9 +237,10 @@ A7L (V.O) : We could learn how to do manufacturing in LEO. It won't be _exactly_
 INT. BOARDROOM
 A couple of suits sitting in a boardroom, in a circle. In the middle of the circle is a woman tied to the stake. She's writhing around and making terrible noises. At her feet is a pile of money. And they're just... talking.
 A7L (V.O.) : We could have big players in the industrial space design versions of the tools and hardware for the lunar surface. This place has insane temperature swings and abrasive dust that gets everywhere.
-[write some dialogue for the oligarchs !!  seven of them : canada, france, germany, italym japan]
+[write some dialogue for the oligarchs !!  seven of them : canada, france, germany, italy, japan, uk, us]
 
 EXT. THE CITY
+burger_stall
 Miss A7L and another woman standing in front of a liquor store. The woman is still rummaging in her purse.
 A7L : Instead we're... what? Spending tens of billions to do a worse version of a thing we did 60 years ago? I just don't see the logic there.
 PURSE LADY : Found it !
@@ -259,5 +264,64 @@ Miss A7L sitting in a noir style office. B&W. High angle.
 A7L : [go back to noir. but say you've got the nerve. and you get a ride. how are you gonna stick the landing ?] The only manned spacecraft to successfully land on and return from the lunar surface was the LEM. Given that it was designed in the 1960s, it's only natural that you would have better options by the 2020s. You don't. NASA is banking on two private companies to make your moon landing happen: SpaceX and Blue Origin. I want you to try and understand something.
 
 EXT. EARTH - AERIAL
+grumman
 Various Grumman jets flying around. Have fun with it :)
 A7L (V.O.) : When Grumman was chosen to design and assemble the LEM, they had been making reliable military aircraft for _decades_. The F6F Hellcat. F4F Wildcat. TBF Avenger. F9F Panther. Thousands upon thousands of fighter pilots trusted these vehicles with their lives on a daily basis. And they were super reliable! So when it came time to select a contractor for the LEM, NASA could feel safe with choosing them.
+
+GRAPHIC
+The stereotypical : 74 dots on a screen. It'll be cool though.
+A7L (V.O.) : SpaceX has only ever flown 74 people. Their entire philosophy is 'Rapid Unscheduled Disassembly'. Blowing things up. And yet, we expect their lunar lander to work perfectly first try.
+Add 38 more dots, in a different colour than Spacex.
+A7L (V.O.) : Blue Origin, on the other hand, is even less experienced than SpaceX. Their New Shepard rocket has launched 38 times, and their New Glenn, only three. 
+
+INT. OFFICE
+Miss A7L sitting in a noir style office. B&W. High angle.
+(Laugh) And on the 28th of May 2026, New Glenn exploded on the pad, blowing Blue Origin's launch complex to smithereens. These are the companies NASA is entrusting with our lunar return. Neither of them have a spacecraft capable of landing on the moon. [finish it out w/ a nice noir closer]
+
+INT. OBSERVATION DECK
+An orbital observation deck, looking down at the moon
+A7L : It is beautiful up here though. Even if there are a lot of tourists. So let's say you manage to make a landing happen. Somewhere down there. How would you even survive ? Maslow is still top of the line back then huh ? His hierarchy of needs : food, shelter... _water_. Where are you getting your water from ?
+
+EXT. MOON - Shackleton Crater
+Aerial footage flying over Shackleton
+NEWS ANCHOR (V.O.) : Good evening it's _sunny_ at Shackleton today, a balmy minus eight degrees _centigrade_. The sunlight is only going to last three more days, so go out and enjoy it while you can. The Christmas Village is open until Tuesday. You and your little ones can enjoy a Christmas light show, pictures with Santa Claus, and even a complimentary mug of hot cocoa. In addition to these festive activities, you can of course enjoy all of the usual trappings down on the ice.
+
+INT. THE FISH BOWL
+underwater_club_v2
+A club located deep in a lunar pool. A7l is on stage delivering this portion of the script to a crowd.
+A7L : So for quite a while now, we've known that the moon is a dry, barren rock. Except for this place, am I right ? [weak crowd engagement]. And this view held up through the entire Luna programme, Surveyor program, Explorer program, Lunar Orbiter program. Through all ten times humans went there, and all six landings. Even when specifically _looking_ for water. "The rocks show no evidence of exposure to water, and their content of metallic iron suggests that they, like the Apollo 11 and Apollo 12 material, were formed and have remained in an environment with low oxygen activity." That, evidently, was that.
+
+THE VOID
+water_delusion
+A7L : But in the late 20th and 21st century, there was a growing _delusion_ about the presence of water on the moon. It all started way back in 1994 with a mission called
+
+TITLE CARD - CLEMENTINE
+clementine
+A7L (V.O.) : Clementine. It was, ostensibly, a nothing burger. Go up, do some spy shit for the DoD, then it was free to study the moon and visit an asteroid. It accomplished the first two of those, but then it had a computer problem and couldn't make it to the asteroid. Mission success, everybody moved on.
+
+BLACK SCREEN
+A7L (V.O.) : Until two years later.
+
+INT. PRESS CONFERENCE
+A simple look up at a press conference stage. A la the Apollo ones. Two men are seated.
+LEFT MAN : So for the first time we now know that there are deposits of water at the South Pole of the moon that are there, apparently accessible and ready to use for this purpose -- both to support human life, and to produce rocket fuel.
+MEDIATOR (O.S.) : And now we're gonna open up the room uh, for some questions and answers.
+The crowd starts to murmur.
+MIKE SMITH : Mike Smith, RCN. What do you think this would look like if you could go right down and see it? Would you see a fairly large pond here, other ponds all over the place, some ice in crevices and rocks?
+RIGHT MAN : You would probably see... First of all you wouldn't see anything because you'd be in the dark. But if you had a flashlight and you illuminated the surface, you would see a surface that looked not unlike any place else on the moon, but if you were to dig down into that and pull it up, you would find that there would be ice crystals contained in the interstices between the dust grains. So it's not a sheet or a pond. It's not an ice rink on the moon. It's basically ice mixed into the dirt.
+MIKE SMITH : What's the presumptive volume of it then, and how did you discern that?
+RIGHT MAN : As I mentioned, what we can tell from looking at the radar return is roughly the area that is covered by this. Assuming it reflects ice like ice on Mercury --making that assumption. That's been well looked at. Then in order to see this back scatter effect, this roadside reflector effect; it's estimated that we have to see some number of wavelengths of our radar into the ice. In reviewing the paper, several of the reviewers posited we probably need to see somewhere between 50 and 100 wavelengths. So our wavelength is about six inches. So at the thickest case, it's roughly 50 feet.
+PENNY BRANDT : Penny Brandt, CFBC. Can you compare that with something you know?
+RIGHT MAN : It's a lake. A small lake.
+PENNY BRANDT : But it's a dirt lake.
+RIGHT MAN : Right, mixed in. (Laughter) A dirty lake.
+JEAN-FRANÇOIS LEFEBVRE : Jean-François Lefebvre, L'Institut de la Supériorité Française. Si l'existence d'eau et de micro-organismes est confirmée, quand prévoyez-vous que nous pourrons établir la première colonie sur la lune ?
+RIGHT MAN : We have a long way to go before we start living on the moon. What this is an indication that living on the moon might be possible. So the first thing you'd want to do is, first of all, confirm this, that we are indeed making the right conclusion from the data; secondly to assess is our estimate right? How much is there? What is its physical state? How much rock is mixed in? Can we get at it? To me, that implies a whole sequence of robotic missions before you actually send people there. But ultimately, I would think, certainly within the next 50 years, someone could be there using this material.
+A7L (V.O.) : At our cutoff date thirty years later, none of these questions have been answered. Thing have actually gotten worse ! 
+
+EXT. ARECIBO - DAY
+A  view of Arecibo through the trees.
+A7L (V.O.) : A few months later, on the 6th of June, 1997, 
+# FINISH THE WATER SECTION MARCELINE !!
+
+We've finally made it to the moon. Along with all the water we brought along with us. But as you can see, we're all outside still. That's because uh, there's nowhere to go. No one on the entire _Earth_ has built a functional Lunar base. Most organisations don't even have serious plans for one. Like how about NASA. Most of our space knowledge in the modern era comes from them. Their plan is _totally_ solid:
