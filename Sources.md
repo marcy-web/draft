@@ -44,27 +44,23 @@ Research
 42. Counter, Unknown for Who Is In Space, 'humans have flown to space' counter, Accessed 3 August 2026, https://whoisinspace.com/
 43. Article, Unknown for the U.S. National Science Foundation, "NSF McMurdo Station", 5 December 2024, https://www.nsf.gov/geo/opp/ail/mcmurdo-station#population-91d
 44. Article, Unknown for the Nuclear Energy Institute, About NEI, Accessed 3 August 2026, https://www.nei.org/advantages/jobs
-45. Information Sheet, Unknown for Plummers Disposal Service, "Lost Revenue from not have Portable Restrooms on a job site", Accessed 3 August 2026,  https://plummersdisposal.com/wp-content/uploads/2018/04/new-loss_revenu-Avg_numb_workers_construction_site.pdf
-46. Treaty, Unknown for United Nations Office for Outer Space Affairs, "Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies", 27 January 1967, https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/outerspacetreaty.html
-47. Article, Unknown for EU-OSHA, "Directive 2003/88/EC - working time", Accessed 3 August 2026, https://osha.europa.eu/en/legislation/directives/directive-2003-88-ec
-48. Article, Unknown for the European Commission, "EU legislation on family leaves and work-life balance", Accessed 3 August 2026, https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/gender-equality/women-labour-market-work-life-balance/eu-legislation-family-leaves-and-work-life-balance_en
-49. Conference Paper, Aaron D.S. Olson, "Lunar Helium-3: Mining Concepts, Extraction Research, and Potential ISRU Synergies", 15 November 2021 - 17 November 2021  https://ntrs.nasa.gov/api/citations/20210022801/downloads/AIAA%20ASCEND%202021%20Paper_211018.pdf
-50. Web Page, Unknown for Astrobotic, Lunar Delivery Landers, Accessed 3 August 2026, https://www.astrobotic.com/lunar-delivery/landers/
-51. Article, Sean Pervin for Blocks, "The ten heaviest LEGO sets", 21 November 2023, https://blocksmag.com/the-ten-heaviest-lego-sets/
-52. Article, Kevin Espiritu for Epic Gardening, "The Kratky Method: The Easiest Hydroponic System For Beginners ", Accessed 3 August 2026, https://www.epicgardening.com/the-kratky-method/
-53. YouTube Video, Epic Veg, "Corn in a Bucket: We Grew It and Here's What We Got", 9 March 2025, https://www.youtube.com/watch?v=57Jw9nmbe4k
-54. Article, Unknown for the International Telecommunication Union, "Statistics", Accessed 3 August 2026, https://www.itu.int/en/ITU-D/Statistics/pages/stat/default.aspx
-55. Treatise, Vitruvius, Translated by Morris Hicky Morgan & Albert Andrew Howard, Ten Books on Architecture, circa 30-20 BC, https://www.gutenberg.org/files/20239/20239-h/20239-h.htm
-56. Treatise, Ἥρων ὁ Ἀλεξανδρεύς, Translated by Joseph George Greenwood, "Πνευματικά", First Century AD, https://www.gutenberg.org/ebooks/77400
-57. Article, Hayaki Takeda for The Japan News, "Number of Trains Running on Japan’s Tokaido Shinkansen Bullet Train Line Hits Highest Ever at 383 Per Day on Average", 8 September 2025, https://japannews.yomiuri.co.jp/original/perspectives/20250908-279758/
-58. Web page, Unknown for SpaceXNow, "SpaceX Launch Statistics", Early 21st century, https://spacexnow.com/stats
-59. Article, Unknown for the United States Environmental Protection Agency, "National Overview: Facts and Figures on Materials, Wastes and Recycling ", 19 December 2025, https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/national-overview-facts-and-figures-materials
-60. Article, Unknown for NASA, "Moon Base", 12 August 2026, https://www.nasa.gov/moonbase-phases/
-61. Press Release, Jessica Taveau for NASA, "NASA Selects All-American 2025 Class of Astronaut Candidates", 22 September 2025, https://www.nasa.gov/news-release/nasa-selects-all-american-2025-class-of-astronaut-candidates/
-62. Dictionary Entry, Merriam Webster, 'Industrialisation', https://www.merriam-webster.com/dictionary/industrialization
-63. Dictionary Entry, Merriam Webster, 'Colonisation', https://www.merriam-webster.com/dictionary/colonisation
-64. Article, Kristin Kerns-D’Amore for the United States Census Bureau, "Change in Marital Status Became More Common Reason for Moving from 2021 to 2022, Housing/Neighborhood Improvement Reasons Declined", 19 September 2023, https://www.census.gov/library/stories/2023/09/why-people-move.html
-65. https://www.gutenberg.org/files/47015/47015-h/47015-h.htm#ch15
+45. Treaty, Unknown for United Nations Office for Outer Space Affairs, "Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies", 27 January 1967, https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/outerspacetreaty.html
+46. Article, Unknown for EU-OSHA, "Directive 2003/88/EC - working time", Accessed 3 August 2026, https://osha.europa.eu/en/legislation/directives/directive-2003-88-ec
+47. Article, Unknown for the European Commission, "EU legislation on family leaves and work-life balance", Accessed 3 August 2026, https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/gender-equality/women-labour-market-work-life-balance/eu-legislation-family-leaves-and-work-life-balance_en
+48. Conference Paper, Aaron D.S. Olson, "Lunar Helium-3: Mining Concepts, Extraction Research, and Potential ISRU Synergies", 15 November 2021 - 17 November 2021  https://ntrs.nasa.gov/api/citations/20210022801/downloads/AIAA%20ASCEND%202021%20Paper_211018.pdf
+49. Web Page, Unknown for Astrobotic, Lunar Delivery Landers, Accessed 3 August 2026, https://www.astrobotic.com/lunar-delivery/landers/
+50. Article, Sean Pervin for Blocks, "The ten heaviest LEGO sets", 21 November 2023, https://blocksmag.com/the-ten-heaviest-lego-sets/
+51. Article, Kevin Espiritu for Epic Gardening, "The Kratky Method: The Easiest Hydroponic System For Beginners ", Accessed 3 August 2026, https://www.epicgardening.com/the-kratky-method/
+52. YouTube Video, Epic Veg, "Corn in a Bucket: We Grew It and Here's What We Got", 9 March 2025, https://www.youtube.com/watch?v=57Jw9nmbe4k
+53. Article, Unknown for the International Telecommunication Union, "Statistics", Accessed 3 August 2026, https://www.itu.int/en/ITU-D/Statistics/pages/stat/default.aspx
+54. Web page, Unknown for SpaceXNow, "SpaceX Launch Statistics", Early 21st century, https://spacexnow.com/stats
+55. Article, Unknown for the United States Environmental Protection Agency, "National Overview: Facts and Figures on Materials, Wastes and Recycling ", 19 December 2025, https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/national-overview-facts-and-figures-materials
+56. Article, Unknown for NASA, "Moon Base", 12 August 2026, https://www.nasa.gov/moonbase-phases/
+57. Press Release, Jessica Taveau for NASA, "NASA Selects All-American 2025 Class of Astronaut Candidates", 22 September 2025, https://www.nasa.gov/news-release/nasa-selects-all-american-2025-class-of-astronaut-candidates/
+58. Dictionary Entry, Merriam Webster, 'Industrialisation', https://www.merriam-webster.com/dictionary/industrialization
+59. Dictionary Entry, Merriam Webster, 'Colonisation', https://www.merriam-webster.com/dictionary/colonisation
+60. Article, Kristin Kerns-D’Amore for the United States Census Bureau, "Change in Marital Status Became More Common Reason for Moving from 2021 to 2022, Housing/Neighborhood Improvement Reasons Declined", 19 September 2023, https://www.census.gov/library/stories/2023/09/why-people-move.html
+61. https://www.gutenberg.org/files/47015/47015-h/47015-h.htm#ch15
 
 images
 1. Painting, Vincent van Gogh, Grapes, Lemons, Pears, and Apples, 1887, PD, https://www.artic.edu/artworks/64957/grapes-lemons-pears-and-apples
@@ -216,6 +212,38 @@ images
 145. https://archive.org/details/delaterrelalu00vern/page/80/mode/2up
 	1. page 80 (269/373)
 146. https://commons.wikimedia.org/wiki/File:Artemis_program_(solid_contrast_with_wordmark).svg
+147. https://pxhere.com/en/photo/1053468
+148. https://www.getty.edu/art/collection/object/106RJP
+149. https://commons.wikimedia.org/wiki/File:Ocean_world_Earth.jpg
+150. https://commons.wikimedia.org/wiki/File:Poster_-_New_Moon_(1940)_01.jpg
+151. https://commons.wikimedia.org/wiki/File:American_Airlines_Over_The_World_poster_by_Edward_McKnight_Kauffer_(1947).jpg
+152. https://commons.wikimedia.org/wiki/File:Sapho_(Jean-Baptiste_Regnault)_-_Nationalmuseum_-_19195.tif
+153. https://commons.wikimedia.org/wiki/File:Joan_of_Arc_WWI_lithograph2.jpg
+154. https://en.wikipedia.org/wiki/File:Planet_stories_1940fal.jpg
+155. https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_check-green.svg
+156. https://www.loc.gov/item/91726511/
+157. https://www.gettyimages.com/detail/photo/couple-smiling-portrait-royalty-free-image/119679134
+158. pbr texture - https://cc0-textures.com/t/cc0t-fabric-018
+159. https://www.loc.gov/item/2010715112/
+160. https://commons.wikimedia.org/wiki/File:Arnold_Boecklin-fiedelnder_Tod.jpg
+161. https://en.wikipedia.org/wiki/File:Vincent_van_Gogh_-_The_Church_in_Auvers-sur-Oise,_View_from_the_Chevet_-_Google_Art_Project.jpg
+162. https://wellcomecollection.org/works/tcwntb58/images?id=qb3pq5z7
+163. https://www.si.edu/object/portrait-rosalba-peale:saam_1978.71
+164. https://wellcomecollection.org/works/apax9765/images?id=vz5m96jr
+165. https://commons.wikimedia.org/wiki/File:%22Wash_your_hands_before_touching_your_eyes%22_-_NARA_-_516048_-_retouched.jpg
+166. https://commons.wikimedia.org/wiki/File:The_Lost_World_%281925%29_-_film_poster.jpg
+167. https://commons.wikimedia.org/wiki/File:Atlantic_City%E2%80%94_America%E2%80%99s_All-Year_Resort,_Pennsylvania_Railroad,_painting_by_Edward_Mason_Eggleston.jpg
+168. https://www.digitalcommonwealth.org/search/commonwealth:4x51hx37g
+169. https://commons.wikimedia.org/wiki/File:JPL_Visions_of_the_Future,_Europa.jpg
+170. https://commons.wikimedia.org/wiki/File:King_Kong_1933_Danish_movie_poster.jpg
+171. https://www.digitalcommonwealth.org/search/commonwealth:6d570t94r
+172. https://www.webumenia.sk/en/dielo/SVK:SNG.K_8565
+173. solar system scope sun 8k
+174. https://www.getty.edu/art/collection/object/103QRT
+175. https://www.loc.gov/resource/cph.3f05399/
+176. https://www.rawpixel.com/image/2822649/free-illustration-image-art-deco-vintage-woman
+177. https://www.digitalcommonwealth.org/search/commonwealth:8623j249x
+178. https://commons.wikimedia.org/wiki/File:George_Bellows_(American,_1882-1925)_-_Stag_at_Sharkey%27s_-_1922.1133_-_Cleveland_Museum_of_Art.jpg
 
 models
 
@@ -262,122 +290,152 @@ models
 41. https://blendswap.com/blend/2590
 42. "Lunar Rover" (https://skfb.ly/op8Ly) by bigbadcat is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 43. "Luna-2" (https://skfb.ly/HFuU) by tashtego is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-44. "Simple train cabin" (https://skfb.ly/osX8w) by imperioame is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-45. "Polaroid Photo Sample" (https://skfb.ly/UxWn) by Edoardo Galati is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-46. https://www.cgtrader.com/free-3d-models/aircraft/other/veg-03-spaceship
-47. https://science.nasa.gov/resource/ceres-3d-model/
-48. "Europa v1.1" (https://skfb.ly/6DtGo) by uperesito is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-49. "Ganímedes v1.1" (https://skfb.ly/6DtEE) by uperesito is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-50. https://www.cgtrader.com/free-3d-models/space/spaceship/space-living-pod
-51. https://sketchfab.com/3d-models/apollo-lunar-sample-150160-73c4fa8c048e46638f9f19d5b2785624
-52. "Rubik's Cube" (https://skfb.ly/oEFPP) by Alec Huxley is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-53. https://sketchfab.com/3d-models/apollo-lunar-sample-60025241-5fa65b7e7f3b47f28c56938ebc52014d
-54. "Amethyst crystal" (https://skfb.ly/6yOsq) by Panomedia is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-55. "Lowpoly Earth" (https://skfb.ly/oyrYX) by morejpeg is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-56. "Destroyed Car 03 (Raw Scan)" (https://skfb.ly/6RpGV) by Renafox is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-57. https://blendswap.com/blend/28489
-58. "Little Red Car (Free Raw Scan)" (https://skfb.ly/6RpvV) by Renafox is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-59. https://sketchfab.com/3d-models/construction-rubble-d5603cfcc8d0427a912520077dbda3b4
-60. "Trash" (https://skfb.ly/oMHzI) by Schmoldt5000 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-61. https://polyhaven.com/a/shrub_sorrel_01
-62. https://www.cgtrader.com/free-3d-models/furniture/chair/stylish-bar-chair
-63. https://poly.cam/capture/B064BA10-7A86-4682-B638-4137D807428F
-64. "2025 3 Point Lighting Tutorial" (https://skfb.ly/pBqQB) by lukepham-holmesglen is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-65. https://blendswap.com/blend/12363
-66. https://sketchfab.com/3d-models/hangar-blocking-bdb37f544b764d9e8e72708a970bae13
-67. "Electronica 408D" (https://skfb.ly/o7Csn) by Ilya Maksimov is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-68. "Comb & Brush" (https://skfb.ly/oN9IV) by Armin Rezaei is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-69. "Flare Gun" (https://skfb.ly/6Anzu) by soidev is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-70. "Roller  Skate" (https://skfb.ly/pGNqS) by Pranish6700 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-71. "Door white wooden - 4MB" (https://skfb.ly/oVBno) by Mehdi Shahsavan is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-72. "Flamingo Exfoliating Morning Bar Soap" (https://skfb.ly/oLToZ) by Discontent3D is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-73. "Lorem Ipsum Deodarant" (https://skfb.ly/6Uu6u) by Ahmad Azizi is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-74. "Lotion - Johanson's Sweet Apple" (https://skfb.ly/6WOCX) by MW 3D is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-75. https://blendswap.com/blend/7173
-76. "Mexican Flag" (https://skfb.ly/opUDp) by SusiePhilpott is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-77. "Joint scan (v2)" (https://skfb.ly/6RWXB) by PreyK is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-78. https://www.cgtrader.com/free-3d-models/character/clothing/free-mannequin-set-01
-79. https://www.cgtrader.com/free-3d-models/character/clothing/free-mannequin-set-03-7a53b679-0d18-4117-8cf2-b7bc89e602e3
-80. "Space Age Radio" (https://skfb.ly/ooDDN) by Tom Seddon is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-81. "Original Atari 2600 Packaging Box" (https://skfb.ly/oYnpT) by adilvr is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-82. "Vintage Polaroid Camera" (https://skfb.ly/otyzs) by Fredrik Johansen is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-83. "Simple Present" (https://skfb.ly/o9UBy) by Blender3D is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-84. https://www.artstation.com/marketplace/p/76BdN/sci-fi-kit-free-09-vent-pipe
-85. "Beach Ball (Free Download)" (https://skfb.ly/6ENE8) by Riku_Tatsu is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-86. "Roadside Picnic Novel" (https://skfb.ly/pyIMW) by Guy in a Poncho is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-87. https://sketchfab.com/3d-models/cyborg-cop-7a7ed988d149408ebe198c21f8040939
-88. https://www.cgtrader.com/free-3d-models/exterior/industrial-exterior/free-underground-garage-3d-model-textured
-89. https://blendswap.com/blend/31294
-90. https://smutba.se/project/7a0c6873-8bab-4f9e-bf47-526bea04e2d4/
-91. "Cow" (https://skfb.ly/DTQH) by Josué Boisvert is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-92. "VIP Rope Barrier" (https://skfb.ly/oDRBE) by RM3DB is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-93. "Extra Chocolate Marshmallow Cupcake" (https://skfb.ly/onoCB) by jtressle is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-94. https://blendswap.com/blend/6145
-95. "Train - GWR Green livery Class 43 HST" (https://skfb.ly/osWHI) by timblewee is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-96. "Pylon" (https://skfb.ly/6YVL6) by rhcreations is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-97. "Repeater Radio Tower (updated)" (https://skfb.ly/pvLNJ) by Veterock is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-98. "Cement storage tank, production equipment" (https://skfb.ly/puIBK) by Metazeon is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-99. "Nautilus Shell" (https://skfb.ly/6YMsH) by RISD Nature Lab is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-100. "Giant Isopod" (https://skfb.ly/6Z7WO) by RISD Nature Lab is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-101. "Sleeping Cat On The Bed 1 - 3D scan" (https://skfb.ly/ovYGy) by Alben Tan is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-102. https://sketchfab.com/3d-models/common-raven-ec9c0ac738fd4495af334ea2092e8d89
-103. https://sketchfab.com/3d-models/golden-eagle-dd0552b1f93b441cbdd626a5b2abebbf
-104. https://sketchfab.com/3d-models/cc0-webfoot-octopus-octopus-ocellatus-04e13f6fc8304c34b7928a7c7879a39a
-105. "RMS Lusitania 1907" (https://skfb.ly/o9Dyu) by DALGO is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-106. https://commons.wikimedia.org/wiki/File:1620geographos_3D.stl
-107. samuel krug clouds !!
-108. "Hubble Space Telescope" (https://skfb.ly/6YN6O) by Khaled Abdullah is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-109. "Stránská rock 1" (https://skfb.ly/69Zp7) by 3dhdscan is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-110. https://sketchfab.com/3d-models/sandwich-037255ef1dab47248b5387ce2926249f
-111. https://science.nasa.gov/resource/mars-perseverance-rover-3d-model/
-112. "Sitting Girl." (https://skfb.ly/oo7zx) by 3D_Models is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-113. "Man Sitting" (https://skfb.ly/6zoQq) by apexpro is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-114. "MAX 2.0" (https://skfb.ly/onBQu) by Nikitos & 3130 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-115. "💫To the Stars💫 || Astronaut" (https://skfb.ly/pELFY) by dark_igorek is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-116. "Vienna coffee with Chantilly" (https://skfb.ly/6WCA8) by alban is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-117. "Kurier Szczeciński" (https://skfb.ly/oAAXr) by kruchu is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-118. "Milk and Cookies for Santa" (https://skfb.ly/oqTSx) by David Henson is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-119. "cookie" (https://skfb.ly/6V6OR) by 시워니 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-120. "SPACESHIP PAK DA (K) TU-1600 ZVEZDA "ПАК ДА (К)"" (https://skfb.ly/oWqEv) by Ilya Shevchuk is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-121. "T-Shirt for Female" (https://skfb.ly/pDXHx) by DaaGHrii is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-122. https://www.artstation.com/marketplace/p/AazJe/free-female-crop-top-no-01-clo3d-md-projects-obj-fbx
-123. "Cyberpunk Robot" (https://skfb.ly/6XUBs) by Doink is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-124. "SciFi Crate" (https://skfb.ly/oEIPw) by re1monsen is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-125. https://smutba.se/project/05e18174-5d0c-422b-925a-b13ae1bfadd3/
-126. "NEC computer" (https://skfb.ly/oZpSq) by Lelouch is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-127. "Balance Scale" (https://skfb.ly/oBDZs) by Jean-Francois.Bonin is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-128. "Kame House" (https://skfb.ly/6WP7H) by Jerez Felipe is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-129. "Spiral Building" (https://skfb.ly/6X8VF) by Metaroy is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-130. "RMMV_ Oceanic_3_WAREHOUSEVERSION" (https://skfb.ly/pKR8M) by smariacelia008 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-131. "Chapman '73 - Low poly model" () by Daniel Zhabotinsky is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-132. "Mamiya 645 1000S 📷" () by Forpinik is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-133. "Costa coffee bag" () by Alisha is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-134. "Minimal Floor Bed" () by InMind is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-135. https://www.cgtrader.com/free-3d-models/character/man/01business-01man
-136. "Old Soviet Era Calculator" (https://skfb.ly/opAzv) by Coozy is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-137. "Steak & Potatoes (Scaniverse)" (https://skfb.ly/oTovQ) by JFN is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-138. https://www.cgtrader.com/free-3d-models/interior/kitchen/pint-of-beer-843d4614-6c43-4f2e-9f14-7a7909808838
-139. "Rolls Royce" (https://skfb.ly/pvExx) by diabrimoise3 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-140. "Indian Man in suit" (https://skfb.ly/oLUpQ) by Nodeaxis Interactive is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-141. "Miner" (https://skfb.ly/6tLYW) by irs1182 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-142. "8 8k Liter End Stairs" (https://skfb.ly/6qRLO) by innovativedesigns is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-143. https://www.turbosquid.com/FullPreview/1523218?dd_referrer=
-144. https://blendswap.com/blend/28480
-145. 140. https://ares.jsc.nasa.gov/astromaterials3d/sample-details.htm?sample=60025-241
-146. https://www.cgtrader.com/free-3d-models/architectural/other/studio-lookdev
-147. "Fairheaven LT '80 Cop Cruiser - Low poly model" (https://skfb.ly/pAMH6) by Daniel Zhabotinsky is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-148. "Lincoln Continental Mark V" (https://skfb.ly/oNDSE) by Barbo is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-149. "Mercenary Astronaut" (https://skfb.ly/oQAtD) by Peter_D is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-150. "Thrifted Wooden Hand" (https://skfb.ly/puANu) by Qsears is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-151. "Old Nasa Style Computer Console" (https://skfb.ly/psBtF) by SUrusso613 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-152. "Mars Rover" (https://skfb.ly/6wyqM) by Gregori Vorontsov is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-153. "Atlantic Explorer Submarine(glb)" () by JosephWPugsley is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-154. https://sketchfab.com/3d-models/cc0-long-arm-octopus-octopus-minor-acf183a0a0214b58b86b6ad2eeb2eefb
-155. "SpaceX Falcon 9 Block 5" (https://skfb.ly/o6vxY) by AllThingsSpace is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-156. "SpaceX Falcon Heavy" (https://skfb.ly/o6zpZ) by AllThingsSpace is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-157. "SpaceX Starship Ship S25 & Booster 9" (https://skfb.ly/oL9CU) by Clarence365 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-158. "Blue Origin New Glenn" (https://skfb.ly/pLvZ6) by Clarence365 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-159. "Aquaris" (https://skfb.ly/ptPFy) by Arty Locksmith is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+44. "Polaroid Photo Sample" (https://skfb.ly/UxWn) by Edoardo Galati is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+45. https://www.cgtrader.com/free-3d-models/aircraft/other/veg-03-spaceship
+46. https://science.nasa.gov/resource/ceres-3d-model/
+47. "Europa v1.1" (https://skfb.ly/6DtGo) by uperesito is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+48. "Ganímedes v1.1" (https://skfb.ly/6DtEE) by uperesito is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+49. https://www.cgtrader.com/free-3d-models/space/spaceship/space-living-pod
+50. https://sketchfab.com/3d-models/apollo-lunar-sample-150160-73c4fa8c048e46638f9f19d5b2785624
+51. "Rubik's Cube" (https://skfb.ly/oEFPP) by Alec Huxley is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+52. https://sketchfab.com/3d-models/apollo-lunar-sample-60025241-5fa65b7e7f3b47f28c56938ebc52014d
+53. "Amethyst crystal" (https://skfb.ly/6yOsq) by Panomedia is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+54. "Lowpoly Earth" (https://skfb.ly/oyrYX) by morejpeg is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+55. "Destroyed Car 03 (Raw Scan)" (https://skfb.ly/6RpGV) by Renafox is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+56. https://blendswap.com/blend/28489
+57. "Little Red Car (Free Raw Scan)" (https://skfb.ly/6RpvV) by Renafox is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+58. https://sketchfab.com/3d-models/construction-rubble-d5603cfcc8d0427a912520077dbda3b4
+59. "Trash" (https://skfb.ly/oMHzI) by Schmoldt5000 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+60. https://polyhaven.com/a/shrub_sorrel_01
+61. https://www.cgtrader.com/free-3d-models/furniture/chair/stylish-bar-chair
+62. https://poly.cam/capture/B064BA10-7A86-4682-B638-4137D807428F
+63. "2025 3 Point Lighting Tutorial" (https://skfb.ly/pBqQB) by lukepham-holmesglen is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+64. https://blendswap.com/blend/12363
+65. https://sketchfab.com/3d-models/hangar-blocking-bdb37f544b764d9e8e72708a970bae13
+66. "Electronica 408D" (https://skfb.ly/o7Csn) by Ilya Maksimov is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+67. "Comb & Brush" (https://skfb.ly/oN9IV) by Armin Rezaei is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+68. "Flare Gun" (https://skfb.ly/6Anzu) by soidev is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+69. "Roller  Skate" (https://skfb.ly/pGNqS) by Pranish6700 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+70. "Door white wooden - 4MB" (https://skfb.ly/oVBno) by Mehdi Shahsavan is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+71. "Flamingo Exfoliating Morning Bar Soap" (https://skfb.ly/oLToZ) by Discontent3D is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+72. "Lorem Ipsum Deodarant" (https://skfb.ly/6Uu6u) by Ahmad Azizi is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+73. "Lotion - Johanson's Sweet Apple" (https://skfb.ly/6WOCX) by MW 3D is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+74. https://blendswap.com/blend/7173
+75. "Mexican Flag" (https://skfb.ly/opUDp) by SusiePhilpott is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+76. "Joint scan (v2)" (https://skfb.ly/6RWXB) by PreyK is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+77. https://www.cgtrader.com/free-3d-models/character/clothing/free-mannequin-set-01
+78. https://www.cgtrader.com/free-3d-models/character/clothing/free-mannequin-set-03-7a53b679-0d18-4117-8cf2-b7bc89e602e3
+79. "Space Age Radio" (https://skfb.ly/ooDDN) by Tom Seddon is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+80. "Original Atari 2600 Packaging Box" (https://skfb.ly/oYnpT) by adilvr is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+81. "Vintage Polaroid Camera" (https://skfb.ly/otyzs) by Fredrik Johansen is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+82. "Simple Present" (https://skfb.ly/o9UBy) by Blender3D is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+83. https://www.artstation.com/marketplace/p/76BdN/sci-fi-kit-free-09-vent-pipe
+84. "Beach Ball (Free Download)" (https://skfb.ly/6ENE8) by Riku_Tatsu is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+85. "Roadside Picnic Novel" (https://skfb.ly/pyIMW) by Guy in a Poncho is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+86. https://sketchfab.com/3d-models/cyborg-cop-7a7ed988d149408ebe198c21f8040939
+87. https://www.cgtrader.com/free-3d-models/exterior/industrial-exterior/free-underground-garage-3d-model-textured
+88. https://blendswap.com/blend/31294
+89. https://smutba.se/project/7a0c6873-8bab-4f9e-bf47-526bea04e2d4/
+90. "Cow" (https://skfb.ly/DTQH) by Josué Boisvert is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+91. "VIP Rope Barrier" (https://skfb.ly/oDRBE) by RM3DB is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+92. "Extra Chocolate Marshmallow Cupcake" (https://skfb.ly/onoCB) by jtressle is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+93. https://blendswap.com/blend/6145
+94. "Train - GWR Green livery Class 43 HST" (https://skfb.ly/osWHI) by timblewee is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+95. "Pylon" (https://skfb.ly/6YVL6) by rhcreations is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+96. "Repeater Radio Tower (updated)" (https://skfb.ly/pvLNJ) by Veterock is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+97. "Cement storage tank, production equipment" (https://skfb.ly/puIBK) by Metazeon is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+98. "Nautilus Shell" (https://skfb.ly/6YMsH) by RISD Nature Lab is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+99. "Giant Isopod" (https://skfb.ly/6Z7WO) by RISD Nature Lab is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+100. "Sleeping Cat On The Bed 1 - 3D scan" (https://skfb.ly/ovYGy) by Alben Tan is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+101. https://sketchfab.com/3d-models/common-raven-ec9c0ac738fd4495af334ea2092e8d89
+102. https://sketchfab.com/3d-models/golden-eagle-dd0552b1f93b441cbdd626a5b2abebbf
+103. https://sketchfab.com/3d-models/cc0-webfoot-octopus-octopus-ocellatus-04e13f6fc8304c34b7928a7c7879a39a
+104. "RMS Lusitania 1907" (https://skfb.ly/o9Dyu) by DALGO is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+105. https://commons.wikimedia.org/wiki/File:1620geographos_3D.stl
+106. samuel krug clouds !!
+107. "Hubble Space Telescope" (https://skfb.ly/6YN6O) by Khaled Abdullah is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+108. "Stránská rock 1" (https://skfb.ly/69Zp7) by 3dhdscan is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+109. https://sketchfab.com/3d-models/sandwich-037255ef1dab47248b5387ce2926249f
+110. https://science.nasa.gov/resource/mars-perseverance-rover-3d-model/
+111. "Sitting Girl." (https://skfb.ly/oo7zx) by 3D_Models is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+112. "Man Sitting" (https://skfb.ly/6zoQq) by apexpro is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+113. "MAX 2.0" (https://skfb.ly/onBQu) by Nikitos & 3130 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+114. "💫To the Stars💫 || Astronaut" (https://skfb.ly/pELFY) by dark_igorek is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+115. "Vienna coffee with Chantilly" (https://skfb.ly/6WCA8) by alban is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+116. "Kurier Szczeciński" (https://skfb.ly/oAAXr) by kruchu is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+117. "Milk and Cookies for Santa" (https://skfb.ly/oqTSx) by David Henson is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+118. "cookie" (https://skfb.ly/6V6OR) by 시워니 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+119. "SPACESHIP PAK DA (K) TU-1600 ZVEZDA "ПАК ДА (К)"" (https://skfb.ly/oWqEv) by Ilya Shevchuk is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+120. "T-Shirt for Female" (https://skfb.ly/pDXHx) by DaaGHrii is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+121. https://www.artstation.com/marketplace/p/AazJe/free-female-crop-top-no-01-clo3d-md-projects-obj-fbx
+122. "Cyberpunk Robot" (https://skfb.ly/6XUBs) by Doink is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+123. "SciFi Crate" (https://skfb.ly/oEIPw) by re1monsen is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+124. https://smutba.se/project/05e18174-5d0c-422b-925a-b13ae1bfadd3/
+125. "NEC computer" (https://skfb.ly/oZpSq) by Lelouch is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+126. "Balance Scale" (https://skfb.ly/oBDZs) by Jean-Francois.Bonin is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+127. "Kame House" (https://skfb.ly/6WP7H) by Jerez Felipe is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+128. "Spiral Building" (https://skfb.ly/6X8VF) by Metaroy is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+129. "RMMV_ Oceanic_3_WAREHOUSEVERSION" (https://skfb.ly/pKR8M) by smariacelia008 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+130. "Chapman '73 - Low poly model" () by Daniel Zhabotinsky is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+131. "Mamiya 645 1000S 📷" () by Forpinik is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+132. "Costa coffee bag" () by Alisha is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+133. "Minimal Floor Bed" () by InMind is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+134. https://www.cgtrader.com/free-3d-models/character/man/01business-01man
+135. "Old Soviet Era Calculator" (https://skfb.ly/opAzv) by Coozy is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+136. "Steak & Potatoes (Scaniverse)" (https://skfb.ly/oTovQ) by JFN is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+137. https://www.cgtrader.com/free-3d-models/interior/kitchen/pint-of-beer-843d4614-6c43-4f2e-9f14-7a7909808838
+138. "Rolls Royce" (https://skfb.ly/pvExx) by diabrimoise3 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+139. "Indian Man in suit" (https://skfb.ly/oLUpQ) by Nodeaxis Interactive is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+140. "Miner" (https://skfb.ly/6tLYW) by irs1182 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+141. "8 8k Liter End Stairs" (https://skfb.ly/6qRLO) by innovativedesigns is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+142. https://www.turbosquid.com/FullPreview/1523218?dd_referrer=
+143. https://blendswap.com/blend/28480
+144. 140. https://ares.jsc.nasa.gov/astromaterials3d/sample-details.htm?sample=60025-241
+145. https://www.cgtrader.com/free-3d-models/architectural/other/studio-lookdev
+146. "Fairheaven LT '80 Cop Cruiser - Low poly model" (https://skfb.ly/pAMH6) by Daniel Zhabotinsky is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+147. "Lincoln Continental Mark V" (https://skfb.ly/oNDSE) by Barbo is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+148. "Mercenary Astronaut" (https://skfb.ly/oQAtD) by Peter_D is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+149. "Thrifted Wooden Hand" (https://skfb.ly/puANu) by Qsears is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+150. "Old Nasa Style Computer Console" (https://skfb.ly/psBtF) by SUrusso613 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+151. "Mars Rover" (https://skfb.ly/6wyqM) by Gregori Vorontsov is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+152. "Atlantic Explorer Submarine(glb)" () by JosephWPugsley is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+153. https://sketchfab.com/3d-models/cc0-long-arm-octopus-octopus-minor-acf183a0a0214b58b86b6ad2eeb2eefb
+154. "SpaceX Falcon 9 Block 5" (https://skfb.ly/o6vxY) by AllThingsSpace is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+155. "SpaceX Falcon Heavy" (https://skfb.ly/o6zpZ) by AllThingsSpace is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+156. "SpaceX Starship Ship S25 & Booster 9" (https://skfb.ly/oL9CU) by Clarence365 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+157. "Blue Origin New Glenn" (https://skfb.ly/pLvZ6) by Clarence365 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+158. "Aquaris" (https://skfb.ly/ptPFy) by Arty Locksmith is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+159. "Seagulls animated" (https://skfb.ly/6WYHH) by vicente betoret ferrero is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+160. https://www.cgtrader.com/free-3d-models/space/spaceship/blue-origin-blue-moon-mark-ii-lander
+161. "Office desk" (https://skfb.ly/owxnI) by _polybit_ is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+162. "Lamp" (https://skfb.ly/6Rppw) by Aaron_Beller is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+163. "Triton" (https://skfb.ly/6oX9o) by uperesito is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+164. "Enceladus" (https://skfb.ly/HUuB) by Mieke Roth is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+165. "Pregnancy Test" (https://skfb.ly/6TYUH) by crute is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+166. "Duct Tape" (https://skfb.ly/oBKqD) by Kami Rapacz is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+167. https://science.nasa.gov/resource/mimas-3d-model/
+168. https://science.nasa.gov/3d-resources/clementine/
+169. "Quarry slope" (https://skfb.ly/6s9vB) by DronWork is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+170. https://science.nasa.gov/3d-resources/habitat-demonstration-unit/
+171. "Sears Tower Environment Blockout" (https://skfb.ly/6ZzwT) by melton20 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+172. "GSLV Mk3" (https://skfb.ly/6zP9J) by Jainesh Pathak is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+173. "Whispers" (https://skfb.ly/oTnV6) by Schmoldt5000 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+174. "antenna" (https://skfb.ly/p7FUx) by 7midaart is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+175. "Space Colony - O'Neill Cylinder" (https://skfb.ly/pBGoR) by Hagia is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+176. "Low Poly Spaceship 1/10" (https://skfb.ly/6uVru) by Duane's Mind is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+177. "Aeriusu Drone Ship" (https://skfb.ly/6YXJG) by morepolys is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+178. "ship6" (https://skfb.ly/6tvrZ) by Jabril Anderson is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+179. "1930s Train Cabin" () by thomas.rynne is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+180. https://ares.jsc.nasa.gov/astromaterials3d/sample-details.htm?sample=60019-4
+181. https://ares.jsc.nasa.gov/astromaterials3d/sample-details.htm?sample=60639-0
+182. https://ares.jsc.nasa.gov/astromaterials3d/sample-details.htm?sample=65035-0
+183. https://ares.jsc.nasa.gov/astromaterials3d/sample-details.htm?sample=10017-15
+184. https://ares.jsc.nasa.gov/astromaterials3d/sample-details.htm?sample=10021-79
+185. https://ares.jsc.nasa.gov/astromaterials3d/sample-details.htm?sample=10022-53
+186. https://ares.jsc.nasa.gov/astromaterials3d/sample-details.htm?sample=12038-7
+187. https://ares.jsc.nasa.gov/astromaterials3d/sample-details.htm?sample=12019-0
+188. "Bench Chair" (https://skfb.ly/pzPM7) by local.yany is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+189. https://sketchfab.com/3d-models/venus-de-milo-aphrodite-of-milos-53082b5d6cef4c34a9701a2a24f58075
 
 Moving Images
 1. https://archive.org/details/ChallengerDisaster
@@ -407,6 +465,10 @@ outtakes
 11. https://commons.wikimedia.org/wiki/File:Dione_in_natural_light.jpg
 12. https://commons.wikimedia.org/wiki/File:HubbleDeepField.800px.jpg
 13. https://en.wikipedia.org/wiki/File:Pillars_of_creation_2014_HST_WFC3-UVIS_full-res_denoised.jpg
+14. 55. Treatise, Vitruvius, Translated by Morris Hicky Morgan & Albert Andrew Howard, Ten Books on Architecture, circa 30-20 BC, https://www.gutenberg.org/files/20239/20239-h/20239-h.htm
+15. Treatise, Ἥρων ὁ Ἀλεξανδρεύς, Translated by Joseph George Greenwood, "Πνευματικά", First Century AD, https://www.gutenberg.org/ebooks/77400
+16. Article, Hayaki Takeda for The Japan News, "Number of Trains Running on Japan’s Tokaido Shinkansen Bullet Train Line Hits Highest Ever at 383 Per Day on Average", 8 September 2025, https://japannews.yomiuri.co.jp/original/perspectives/20250908-279758/
+17. 45. Information Sheet, Unknown for Plummers Disposal Service, "Lost Revenue from not have Portable Restrooms on a job site", Accessed 3 August 2026,  https://plummersdisposal.com/wp-content/uploads/2018/04/new-loss_revenu-Avg_numb_workers_construction_site.pdf
 
 special thanks
 	sheepit
